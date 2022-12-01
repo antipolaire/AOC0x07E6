@@ -1,0 +1,8 @@
+# Git Ignore File for C64/cc65 Assembly
+
+**/*.o
+**/labels.txt
+**/*.prg
+**/*.d64
+**/*.t64
+**/.vscode/

@@ -1,3 +1,11 @@
+## Make?
+
+Run `make`
+
+## Run?
+
+Run `x64 build/doom.prg`
+
 # References
 https://www.cc65.org/doc/ca65.html
 https://www.pagetable.com/c64ref/6502/?tab=2#LDA

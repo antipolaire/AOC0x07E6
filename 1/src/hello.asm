@@ -5,6 +5,7 @@ sta $D021 ; border color
 lda #04 ; red
 sta $0286 ; text color
 ldx #0 ; X = 0
+
 loop:
     lda message, x ; A = message[x]
     beq done ; If A = 0, jump to done
